@@ -1,0 +1,4 @@
+go 1.19
+
+use ./01_hello_world
+use ./02_integers
